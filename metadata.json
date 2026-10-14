@@ -1,0 +1,8 @@
+{
+  "name": "PathPilot AI",
+  "description": "Don't just choose your future. Try it first. Hands-on realistic career tryouts, evidence-based AI feedback, and personalized learning roadmaps for students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
